@@ -5,7 +5,7 @@
 	<item key="org.eclipse.jdt.ui.last.selected.project.jre" value="LibericaJDK-17"/>
 	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo.comments" value="false"/>
 	<item key="org.eclipse.jdt.ui.last.selected.create.moduleinfo" value="false"/>
-	<item key="org.eclipse.jdt.ui.last.external.project" value="C:\SSAFY\javaworkspace\Java_Day10_파일입출력"/>
+	<item key="org.eclipse.jdt.ui.last.external.project" value="C:\SSAFY\javaworkspace\Java_Day11_관통프로젝트"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
@@ -131,5 +131,8 @@
 		<item key="DIALOG_WIDTH" value="531"/>
 		<item key="DIALOG_HEIGHT" value="627"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item key="pageIndex" value="2"/>
 	</section>
 </section>
